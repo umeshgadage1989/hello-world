@@ -1,1 +1,2 @@
-Hi, This is test and this is hello world!
+Hi, 
+This is a project to learn a github!
